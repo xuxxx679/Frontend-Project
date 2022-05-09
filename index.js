@@ -5,13 +5,13 @@
 favouriteMovieGenre("space")
 
 // watermelon, tomato, banana, orange, avocado, blueberry
-favouriteFruit("avocado")
+favouriteFruit("watermelon")
 
 // light, dark
-favouriteMode("dark")
+favouriteMode("light")
 
 // sharp, soft, round
-favouriteEdgeStyle("soft")
+favouriteEdgeStyle("sharp")
 
 
 
